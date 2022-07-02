@@ -1,4 +1,4 @@
-<h3 align="center">Gian's website</h3>
+<h2 align="center">Gian's website</h2>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/giankbo/giankbo.github.io?color=blue">
